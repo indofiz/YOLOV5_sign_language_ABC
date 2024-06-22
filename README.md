@@ -4,11 +4,11 @@ A fully functional Flutter application dedicated to the You Only Look Once (YOLO
 
 ## Screenshot
 
-![Home Page](screenshot/1.jpeg)
-![Menu Page](screenshot/2.jpeg)
-![Image Page](screenshot/3.jpeg)
-![Back Page](screenshot/4.jpeg)
-![Back Page](screenshot/5.jpeg)
+<img src="screenshot/1.jpeg" width="300" />
+<img src="screenshot/2.jpeg" width="300" />
+<img src="screenshot/3.jpeg" width="300" />
+<img src="screenshot/4.jpeg" width="300" />
+<img src="screenshot/5.jpeg" width="300" />
 
 ## Insructions
 
